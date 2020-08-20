@@ -7,7 +7,7 @@ pyttsx3.speak("HELLO,I AM A CHATTING BOT.")
 print("PLAESE, TELL ME",end='')
 pyttsx3.speak("PLAESE, TELL ME ")
 while True:
-	print("How can i help you :",end='')
+	print("How can i help you :",end=' ')
 	pyttsx3.speak("How can i help you")
 	#input from user
 	input_usr = input()
